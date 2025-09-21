@@ -47,5 +47,5 @@ To run this project locally, you can clone the repository and open the `index.ht
 ### Steps:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/antonios-malak/Daniels.git
+   git clone https://github.com/antonios-malak/Antonios-cv
 
