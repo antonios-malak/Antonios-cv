@@ -44,8 +44,5 @@ You can view the live demo of the project at:
 
 To run this project locally, you can clone the repository and open the `index.html` file in your browser.
 
-### Steps:
-1. Clone the repository:
-   ```bash
    git clone https://github.com/antonios-malak/Antonios-cv
 
